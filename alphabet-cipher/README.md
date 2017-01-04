@@ -1,4 +1,4 @@
-﻿# alphabet-cipher
+# alphabet-cipher
 
 Lewis Carroll published a cipher known as
 [The Alphabet Cipher](http://en.wikipedia.org/wiki/The_Alphabet_Cipher)
@@ -94,6 +94,24 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/priort/wonderland-clojure-katas/tree/master/alphabet-cipher
 * https://github.com/dfucci/wonderland-clojure-katas/tree/master/alphabet-cipher
 * https://github.com/davidbecker/wonderland-clojure-katas/tree/solution/alphabet-cipher (includes decypher solution)
+* https://github.com/hannestyden/wonderland-clojure-katas/tree/solutions/alphabet-cipher (includes decypher solution)
+* https://github.com/harshita/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/bradlucas/wonderland-clojure-katas/tree/alphabet/alphabet-cipher (includes decypher solution)
+* https://github.com/ivern/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/ilyabe/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/davidpham87/wonderland-clojure-katas/tree/my-training/alphabet-cipher (includes decypher solution)
+* https://github.com/puhrez/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/ultrakapy/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/emmagordon/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/passaro/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/metamorph/wonderland-clojure-katas/tree/alphabet-cipher (includes decypher solution)
+* https://github.com/JustinSpedding/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/RokLenarcic/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/kimsnj/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/whiteotter/wonderland-clojure-katas/tree/alphabet-cipher/alphabet-cipher
+* https://github.com/dimitrijer/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/feng-qi/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/favrik/wonderland-clojure-katas/tree/alphabet-cipher/alphabet-cipher (includes decypher solution)
 
 If you haven't solved your kata yet - Don't Peek!
 

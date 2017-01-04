@@ -1,4 +1,4 @@
-﻿# tiny-maze
+# tiny-maze
 
 Alice found herself very tiny and wandering around Wonderland.  Even
 the grass around her seemed like a maze.
@@ -44,6 +44,15 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/tiny-maze
 * https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/tiny-maze
 * https://github.com/werand/wonderland-clojure-katas/tree/master/tiny-maze
+* https://github.com/priort/wonderland-clojure-katas/tree/master/tiny-maze
+* https://github.com/bradlucas/wonderland-clojure-katas/tree/tiny-maze/tiny-maze
+* https://github.com/davidpham87/wonderland-clojure-katas/tree/my-training/tiny-maze
+* https://github.com/ultrakapy/wonderland-clojure-katas/tree/master/tiny-maze
+* https://github.com/emmagordon/wonderland-clojure-katas/tree/master/tiny-maze
+* https://github.com/ivern/wonderland-clojure-katas/tree/master/tiny-maze
+* https://github.com/RokLenarcic/wonderland-clojure-katas/tree/master/tiny-maze
+* https://github.com/kimsnj/wonderland-clojure-katas/tree/master/tiny-maze
+* https://github.com/whiteotter/wonderland-clojure-katas/tree/master/tiny-maze
 
 If you haven't solved your kata yet - Don't Peek!
 
@@ -53,4 +62,3 @@ Copyright © 2014 Carin Meier
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
-
